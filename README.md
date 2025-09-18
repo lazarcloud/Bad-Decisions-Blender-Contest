@@ -23,10 +23,13 @@ Bad-Decisions-Blender-Contest/
 - **Grid Lines (`Grid Lines.blend`)**
   - Bold yellow "Bad Decisions" logo hovering over a stylised grid field featuring episode cards from the Bad Decisions podcast.
   - Includes composition for hero stills (`Exports/Photos/Grid Lines`) and full animation takes (`Exports/Videos/Grid Lines`).
-  ![Grid Lines hero still](Exports/Photos/Grid%20Lines/Grid%20Lines-0003.jpg)
+  ![Grid Lines still](Exports/Photos/Grid%20Lines/Grid%20Lines-0003.jpg)
+  ![Grid Lines viewport](Exports/Photos/Grid%20Lines/Grid%20Lines-0005.png)
 
 - **Old TV (`Old TV.blend`)**
   - Retro CRT television layout.
   - Scene organised into collections for set dressing and camera animation; final renders live under `Exports/Videos/Old TV` with silent and audio-ready variants.
   - Matching still frames are in `Exports/Photos/Old TV`.
-  ![Old TV hero still](Exports/Photos/Old%20TV/Old%20TV-0003.jpg)
+  ![Old TV still](Exports/Photos/Old%20TV/Old%20TV-0003.jpg)
+  ![Old TV viewport](Exports/Photos/Old%20TV/Old%20TV-0006.png)
+  ![Old TV viewport](Exports/Photos/Old%20TV/Old%20TV-0007.png)
